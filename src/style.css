@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://cdn.lifehacker.ru/wp-content/uploads/2020/06/pexels-photo-314726_1593722295-e1593722392848.jpeg);
+}
+
+table{
+    width: 20%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    margin-left: 500px;
+}
+
+td{
+    border: 1px solid #252525;
+}
+
+input{
+    margin-left: 550px;
+    margin-top: 200px;
+}
